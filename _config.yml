@@ -1,17 +1,17 @@
-title:            Hargrove Internet Radio
-description:      Home of the Hargrove Internet Radio Podcast
+title:            Site Title
+description:      Describe your website here.
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: http://www.hargrove85.github.io
+url:
 
 # Owner/author information
 owner:
-  name:           Brandon Hargrove
+  name:           Your Name
   avatar:         avatar.jpg
-  bio:            "Cool as the other side of the pillow"
+  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
