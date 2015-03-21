@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Theme Setup
-description: "Instructions on how to install and customize the modern Jekyll theme HPSTR."
+title: Hargrove Internet Radio
+description: "Home of Hargrove Internet Radio Podcast"
 image:
   feature: abstract-11.jpg
   credit: dargadgetz
